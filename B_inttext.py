@@ -13,4 +13,4 @@ with open("setcompany_file.py", "w") as f:
     f.write("setcompany = '" + setcompany + "'")
 
 
-print (Eingabe wurde gespeichert!)
+print ("Eingabe wurde gespeichert!")
